@@ -1,2 +1,28 @@
-# catering--food-service-social-media-content-distribution-n8n-workflow
-Create once, publish everywhere with Catering &amp; Food Service-optimized formatting per platform. Multi-channel distribution in one workflow.
+# Catering & Food Service Social Media Content Distribution N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY14nbHhe2M7BC8nGd0d26)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY14nbHhe2M7BC8nGd0d26)
+
